@@ -1,4 +1,3 @@
-# CyberProject
 # Home Lab Cybersecurity Project
 
 ## Overview
@@ -18,3 +17,5 @@ This project demonstrates a home lab environment for practicing cybersecurity sk
 ## Simulations
 - **Kali Linux**: Use **nmap** to scan the **Ubuntu** VM.
 - **Ubuntu**: Configure **UFW** to block unwanted traffic and monitor with **Wireshark**.
+## Conclusion
+This home lab setup provides a practical environment to explore cybersecurity concepts through hands-on experience. By simulating attacks and implementing defenses, I’ve gained valuable insights into network security. I encourage others to replicate this setup to enhance their skills and understanding of cybersecurity practices.
